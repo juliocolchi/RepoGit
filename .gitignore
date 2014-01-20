@@ -1,0 +1,15 @@
+/__history/
+/*.~*
+/*.dsk
+/*.identcache
+/*.dproj.local
+/*.local
+/*.drc
+/*.sfb
+/*.cbk
+/bin/
+/intermediate/
+/*.map
+*.dcu
+.sonar/
+/Build/TestResults/
